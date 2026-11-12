@@ -61,6 +61,10 @@ com.example.gazosmart/
 5. Ejecuta la aplicación con Run ▶️.
 
 ---
+## Estado del Proyecto
+GazoSmart se encuentra actualmente en desarrollo activo.
+
+Algunas funcionalidades continúan en proceso de mejora y expansión. Se planea incorporar nuevas características, optimizar la experiencia de usuario y fortalecer la validación y persistencia de datos en futuras versiones.
 
 ## 📄 Licencia
 
